@@ -1,15 +1,15 @@
 {
     "$schema":"https://specs.frictionlessdata.io/schemas/table-schema.json",
-    "name":"dispositif-aide",
-    "title":"Dispositifs d'aides",
-    "description":"Spécification du fichier d'échange relatif aux dispositifs d'aides.",
+    "name":"aide",
+    "title":"Aides",
+    "description":"Spécification du fichier d'échange relatif aux aides.",
     "keywords":[
        "dispositifs",
        "aide"
     ],
     "countryCode":"FR",
-    "homepage":"https://github.com/etalab/schema-dispositif-aide",
-    "path":"https://github.com/etalab/schema-dispositif-aide/raw/v0.0.1/schema.json",
+    "homepage":"https://github.com/etalab/schema-aide",
+    "path":"https://github.com/etalab/schema-aide/raw/v0.0.1/schema.json",
     "licenses":[
        {
           "title":"Etalab Licence Ouverte 2.0",
@@ -21,7 +21,7 @@
        {
           "title":"Fichier valide (CSV)",
           "name":"exemple-valide-csv",
-          "path":"https://github.com/etalab/schema-dispositif-aide/raw/v0.0.1/exemple-valide.csv"
+          "path":"https://github.com/etalab/schema-aide/raw/v0.0.1/exemple-valide.csv"
        }
     ],
     "sources":[],
@@ -81,6 +81,18 @@
           "title":"Benoit Delamea",
           "email":"benoit.delamea@capgemini.com",
           "organisation":"Cap Gemini",
+          "role":"contributor"
+       },
+       {
+          "title":"Ian Metelski",
+          "email":"ian.metelski@indre.gouv.fr",
+          "organisation":"DDT 36/SPREN/UR",
+          "role":"contributor"
+       },
+       {
+          "title":"Johan DUFOUR",
+          "email":"johan.dufour@beta.gouv.fr",
+          "organisation":"beta.gouv",
           "role":"contributor"
        }
     ],

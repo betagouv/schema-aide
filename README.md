@@ -1,6 +1,21 @@
-# Schéma des dispositifs d'aides
+# Schéma d'aides
 
-Ce schéma de données permet de définir un modèle permettant de spécifier les dispositifs d'aides publiques sous leurs différentes formes, qu'il s'agisse d'aides financières ou d'aides en ingénierie
+Ce schéma de données permet de définir un modèle permettant de spécifier les **aides** et leurs **bénéfiaires** qu'il s'agisse d'aides financières ou d'aides en ingénierie.
+
+## Beneficiaire
+Un béneficiaire peut-être :
+- Association
+- Commune
+- Recherche
+- Agriculteur
+- Collectivité d’outre-mer à statut particulier
+- Intercommunalité / Pays
+- Etablissement public dont services de l'Etat
+- Département
+- Entreprise publique locale (Sem, Spl, SemOp)
+- Entreprise privée
+- Région
+- Particulier
 
 ## Contexte 
 
